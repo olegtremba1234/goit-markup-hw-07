@@ -1,4 +1,7 @@
 /*-------Портфоліо------*/
+.portpholio{
+    @include section();
+}
 .buttons-folio {
     margin-bottom: 50px;
     text-align: center;

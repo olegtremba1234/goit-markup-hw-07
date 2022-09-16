@@ -986,6 +986,11 @@ textarea {
 }
 
 /*-------Портфоліо------*/
+.portpholio {
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+
 .buttons-folio {
   margin-bottom: 50px;
   text-align: center;
