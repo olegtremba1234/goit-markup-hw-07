@@ -1,5 +1,9 @@
 /*----------особливості-------*/
 
+.specials{
+    @include section(94px, 0);
+}
+
 .specials__list {
     display: flex;
     gap: 30px;

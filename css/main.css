@@ -669,10 +669,10 @@ textarea {
 }
 
 .hero {
-  background-color: #2f303a;
-  text-align: center;
   padding-top: 200px;
   padding-bottom: 200px;
+  background-color: #2f303a;
+  text-align: center;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -703,6 +703,11 @@ textarea {
 }
 
 /* постійні клієнти */
+.clients {
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+
 .clients__title {
   font-weight: 700;
   font-size: 36px;
@@ -757,6 +762,11 @@ textarea {
 }
 
 /*----------особливості-------*/
+.specials {
+  padding-top: 94px;
+  padding-bottom: 0;
+}
+
 .specials__list {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -807,6 +817,8 @@ textarea {
 
 .work {
   padding-top: 0;
+  padding-top: 94px;
+  padding-bottom: 94px;
 }
 
 .work__title {
@@ -861,6 +873,8 @@ textarea {
 
 .team {
   background-color: var(--team-background-color);
+  padding-top: 94px;
+  padding-bottom: 94px;
 }
 
 .team__title {

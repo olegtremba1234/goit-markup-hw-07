@@ -1,4 +1,7 @@
 /* постійні клієнти */
+.clients{
+    @include section();
+}
 
 .clients__title {
     font-weight: 700;

@@ -1,5 +1,7 @@
 .work {
     padding-top: 0;
+
+    @include section();
 }
 
 .work__title {
